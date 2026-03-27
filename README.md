@@ -101,3 +101,20 @@ Open **http://localhost:5173** — Vite proxies `/api` to port **3001**.
 ## License
 
 Assessment / demo project — align with your employer and nuScenes [terms of use](https://www.nuscenes.org/terms-of-use) when using real data.
+
+
+
+
+
+The nuScenes inspector project is here:
+
+https://github.com/ahdpromise/Senior_software_ngineer_technical
+
+To run it from scratch
+
+Install Node.js (LTS) and Git if needed.
+Clone the repo and open the project folder in Visual Studio Code.
+In a terminal: cd server → npm install → npm start (leave running; API on port 3001).
+Open a second terminal: cd client → npm install → npm run dev (leave running).
+In your browser open http://localhost:5173.
+Both terminals must stay open while you use the app. The README in the repo has more detail (architecture, optional dataset).

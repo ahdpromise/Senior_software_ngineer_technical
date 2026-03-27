@@ -1,0 +1,32 @@
+[
+  {
+    "token": "ann-002",
+    "sample_token": "mock-samp-002",
+    "instance_token": "inst-veh-2",
+    "visibility_token": "vis-1",
+    "attribute_tokens": [],
+    "translation": [12, 1, 0],
+    "size": [4, 2, 1.5],
+    "rotation": [1, 0, 0, 0],
+    "prev": "",
+    "next": "",
+    "num_lidar_pts": 10,
+    "num_radar_pts": 0,
+    "category_name": "vehicle.car"
+  },
+  {
+    "token": "ann-001",
+    "sample_token": "mock-samp-001",
+    "instance_token": "inst-veh-1",
+    "visibility_token": "vis-1",
+    "attribute_tokens": [],
+    "translation": [10, 0, 0],
+    "size": [4, 2, 1.5],
+    "rotation": [1, 0, 0, 0],
+    "prev": "",
+    "next": "",
+    "num_lidar_pts": 42,
+    "num_radar_pts": 0,
+    "category_name": "vehicle.car"
+  }
+]

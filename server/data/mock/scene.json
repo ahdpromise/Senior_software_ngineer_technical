@@ -1,0 +1,11 @@
+[
+  {
+    "token": "mock-scene-001",
+    "log_token": "mock-log",
+    "nbr_samples": 3,
+    "first_sample_token": "mock-samp-001",
+    "last_sample_token": "mock-samp-003",
+    "name": "mock-demo-scene",
+    "description": "Bundled mock nuScenes-style data (no full dataset required)"
+  }
+]

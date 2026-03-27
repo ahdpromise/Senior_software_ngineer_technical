@@ -1,0 +1,12 @@
+[
+  {
+    "token": "sensor-cam",
+    "channel": "CAM_FRONT",
+    "modality": "camera"
+  },
+  {
+    "token": "sensor-lid",
+    "channel": "LIDAR_TOP",
+    "modality": "lidar"
+  }
+]

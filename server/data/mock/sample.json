@@ -1,0 +1,23 @@
+[
+  {
+    "token": "mock-samp-001",
+    "timestamp": 1000000,
+    "scene_token": "mock-scene-001",
+    "next": "mock-samp-002",
+    "prev": ""
+  },
+  {
+    "token": "mock-samp-002",
+    "timestamp": 1000050,
+    "scene_token": "mock-scene-001",
+    "next": "mock-samp-003",
+    "prev": "mock-samp-001"
+  },
+  {
+    "token": "mock-samp-003",
+    "timestamp": 1000100,
+    "scene_token": "mock-scene-001",
+    "next": "",
+    "prev": "mock-samp-002"
+  }
+]
